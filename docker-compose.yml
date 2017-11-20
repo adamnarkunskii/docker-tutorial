@@ -1,0 +1,8 @@
+version: '2'
+services:
+
+  kitty-cat:
+    build: kitty-cat/
+    command: "/data/cat-this.txt"
+    volumes: 
+      - "/tmp/some-data/:/data"
