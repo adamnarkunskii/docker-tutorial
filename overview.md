@@ -1,8 +1,9 @@
 Docker Basics
 =============
 - docker run
-- docker pull
 - docker images
+- docker inspect
+- docker pull
 - docker logs
 - docker ps
 - Volumes
