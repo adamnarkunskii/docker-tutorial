@@ -6,3 +6,5 @@ services:
     command: "/data/cat-this.txt"
     volumes: 
       - "/tmp/some-data/:/data"
+
+  

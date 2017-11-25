@@ -30,5 +30,6 @@ Docker Compose
 
 Next steps
 ==========
+- docker stats -a
 - Orchestration (K8s et al)
 - Advanced networking in docker-compose
